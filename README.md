@@ -1,60 +1,35 @@
-# Olá! Eu sou Ivan Geovane Sansão 👋
+---
 
-💻 **Desenvolvedor em formação**, com experiência profissional em gestão administrativa e forte interesse em desenvolvimento de software.
+## 📂 Projetos e Portfólio
 
-Atualmente aprimoro meus conhecimentos em **Python, Java, JavaScript, HTML, CSS, Git e GitHub** por meio de projetos práticos e estudos contínuos, buscando minha transição para a área de tecnologia. Meu objetivo é contribuir para o desenvolvimento de soluções de qualidade, enquanto continuo evoluindo profissionalmente.
+Confira alguns dos projetos que desenvolvi e publiquei:
+
+### 🏫 Gestão CEI
+Sistema web desenvolvido para auxiliar no gerenciamento de informações e processos de um Centro de Educação Infantil.
+
+🔗 **Acessar projeto:**  
+https://ivangsansao.github.io/Gestao-CEI-/
 
 ---
 
-## 🚀 Tecnologias
+### 🐶 Amigo Pet
+Aplicação web voltada ao universo pet, desenvolvida para organização e gerenciamento de informações relacionadas a animais e serviços.
 
-### Linguagens
-- 🐍 Python
-- ☕ Java
-- 🌐 JavaScript
-- 🖥️ HTML5
-- 🎨 CSS3
-
-### Ferramentas
-- Git
-- GitHub
-- Visual Studio Code
+🔗 **Acessar projeto:**  
+https://ivangsansao.github.io/amigo-pet/
 
 ---
 
-## 📚 Atualmente estudando
+### 📋 NUGESP App
+Aplicação desenvolvida para gerenciamento e organização de processos e atividades.
 
-- Desenvolvimento Web
-- Programação Orientada a Objetos (POO)
-- APIs REST
-- Banco de Dados
-- Boas práticas de programação
-- Estruturas de Dados e Algoritmos
+🔗 **Acessar projeto:**  
+https://ivangsansao.github.io/nugesp-app/
 
 ---
 
-## 🎯 Objetivo
-
-Busco uma oportunidade como **Desenvolvedor Júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos inovadores na área de tecnologia.
-
----
-
-## 📂 Projetos
-
-Confira meus projetos e acompanhe minha evolução como desenvolvedor:
+🐙 Veja também meus repositórios no GitHub:
 
 ➡️ **https://github.com/Ivangsansao?tab=repositories**
 
 ---
-
-## 📫 Contato
-
-📧 **E-mail:** ivangsansao@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/ivan-geovane-sans%C3%A3o-90449a31/
-
-🐙 **GitHub:** https://github.com/Ivangsansao
-
----
-
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de desenvolvimento de software.
